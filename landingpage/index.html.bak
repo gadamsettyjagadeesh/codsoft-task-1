@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>friends forever</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="logo">Gadamsetty<span>Jagadeesh</span></h1>
+
+      <nav class="navbar">
+        <ul class="navbar-list">
+          <li><a class="navbar-link" href="#" style="color:#9669e0;">Home</a></li>
+          <li><a class="navbar-link" href="#">About Us</a></li>
+          <li><a class="navbar-link" href="#">Blog</a></li>
+          <li><a class="navbar-link" href="#">Gallery</a></li>
+          <li><a class="navbar-link" href="#" target="_blank">Contact Us</a></li>
+        </ul>
+      </nav>
+
+      <div class="mobile-navbar-btn">
+        <ion-icon name="menu" class="mobile-nav-icon"></ion-icon>
+        <ion-icon name="close" class="mobile-nav-icon"></ion-icon>
+      </div>
+    </header>
+  
+    <section class="section-services container">
+      <div class="hero">
+        <h1>Friends Forever</h1>
+        <p>It’s always great to have a friend who is there for you through thick and thin. A true friend is someone who accepts you for who you are, supports you in your endeavors, and helps you grow as a person. Cherish your friendship and make sure to let your friend know how much they mean to you.</p>
+          <h3> <pre>
+Friends forever, side by side,
+In each other's hearts we'll reside.
+Through the ups and downs of life,
+We'll be there for each other, through joy and strife.
+
+A true friend is hard to find,
+But once found, they're one of a kind.
+So let's raise a toast to our friendship,
+And all the memories we'll create on this trip.
+
+          </pre></h3>
+	<button class="btn" type="submit">Time Pass</button>
+      </div>
+    </section>
+
+    
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
+    <script src="index.js"></script>
+  </body>
+</html>
